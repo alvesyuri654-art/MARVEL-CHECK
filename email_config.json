@@ -1,0 +1,10 @@
+{
+  "senderEmail": "yuri.alves@marvel.com.br",
+  "defaultRecipient": "anomalia@marvel.com.br",
+  "defaultSubject": "Relatório de Checklist - Protocolo {protocolo} - Frota {frota}",
+  "defaultBody": "<p>Segue relatório do protocolo {protocolo}, frota {frota}.</p>",
+  "sendMethod": "outlook_app",
+  "tenantId": "",
+  "clientId": "",
+  "clientSecret": ""
+}
